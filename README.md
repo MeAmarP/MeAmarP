@@ -1,16 +1,36 @@
-### Hi there 👋
+# Hi there, I'm MeAmarP! 👋
 
-<!--
-**MeAmarP/MeAmarP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 Working at the intersection of Generative AI | Computer Vision | Deep Learning 🌟
 
-Here are some ideas to get you started:
+🚀 I Enjoy PyTorch, Python, C++ 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+
+I'm passionate about pushing the boundaries of AI and exploring the possibilities of Generative AI, Computer Vision, and Deep Learning. With a focus on innovation and creativity, I strive to contribute to cutting-edge projects and make an impact in the field of artificial intelligence.
+
+### Skills
+
+- Generative AI
+- Computer Vision
+- Deep Learning
+- PyTorch
+- Python
+- C++
+
+### Projects
+
+- [HeyBagh](https://github.com/MeAmarP/HeyBagh): Find and Discover Visually Similar Content (Content-based image retrieval)
+- [Nirikshan](https://github.com/MeAmarP/Nirikshan): Nirikshan(Supervision): Video Analytics Pipeline using AI and Deep Learning
+- [cityeye](https://github.com/MeAmarP/cityeye):  Computer Vision for Traffic Monitoring 
+- [NoProbLlama-Bot](https://github.com/MeAmarP/NoProbLlama-Bot): Helpfulbot using Llamaindex and Llama2 
+- [knowindiabyvizmaps](https://github.com/MeAmarP/knowindiabyvizmaps) : India by Visualizing Data.
+
+Feel free to check out my [GitHub repositories](https://github.com/MeAmarP?tab=repositories) for more projects and contributions!
+
+### Get in Touch
+
+- GitHub: [MeAmarP](https://github.com/MeAmarP)
+- Website: [meamarp.github.io](https://meamarp.github.io/)
+
+Let's connect and collaborate on exciting projects!
+
