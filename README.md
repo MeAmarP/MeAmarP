@@ -17,7 +17,17 @@ I'm passionate about pushing the boundaries of AI and exploring the possibilitie
 - Python
 - C++
   
+### GitHub Stats
+
 ![MeAmarP's GitHub stats](https://github-readme-stats.vercel.app/api?username=MeAmarP&show_icons=true&theme=dark)
+
+### Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeAmarP&layout=compact&theme=dark)](https://github.com/MeAmarP)
+
+### GitHub Activity Graph
+
+![MeAmarP's GitHub Activity Graph](https://github-readme-streak-stats.herokuapp.com/?user=MeAmarP&theme=dark)
 
 ### Projects
 
