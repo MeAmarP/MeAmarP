@@ -17,6 +17,9 @@ I'm passionate about pushing the boundaries of AI and exploring the possibilitie
 - Python
 - C++
 
+![MeAmarP's GitHub stats](https://github-readme-stats.vercel.app/api?username=MeAmarP&show_icons=true&theme=dark)
+
+
 ### Projects
 
 - [R3D3](https://chat.openai.com/g/g-ERYBEC2yK-r3d3): R3D3, custom GPT, Expert in deep learning, proficient in Python, C++, TensorFlow, PyTorch.
