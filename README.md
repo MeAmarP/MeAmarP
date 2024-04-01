@@ -19,6 +19,7 @@ I'm passionate about pushing the boundaries of AI and exploring the possibilitie
 
 ### Projects
 
+- [R3D3](https://chat.openai.com/g/g-ERYBEC2yK-r3d3): R3D3, custom GPT, Expert in deep learning, proficient in Python, C++, TensorFlow, PyTorch.
 - [HeyBagh](https://github.com/MeAmarP/HeyBagh): Find and Discover Visually Similar Content (Content-based image retrieval)
 - [Nirikshan](https://github.com/MeAmarP/Nirikshan): Nirikshan(Supervision): Video Analytics Pipeline using AI and Deep Learning
 - [cityeye](https://github.com/MeAmarP/cityeye):  Computer Vision for Traffic Monitoring 
