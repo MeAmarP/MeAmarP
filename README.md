@@ -1,4 +1,4 @@
-# Hi there, I'm MeAmarP! 👋
+# 👋 Hi there, I'm MeAmarP! 👋
 
 🌟 Working at the intersection of Generative AI | Computer Vision | Deep Learning 🌟
 
