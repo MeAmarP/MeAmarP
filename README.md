@@ -30,6 +30,7 @@ Feel free to check out my [GitHub repositories](https://github.com/MeAmarP?tab=r
 ### Get in Touch
 
 - GitHub: [MeAmarP](https://github.com/MeAmarP)
+- Linkedin: [Amar-P](https://www.linkedin.com/in/meamarp/)
 - Website: [meamarp.github.io](https://meamarp.github.io/)
 
 Let's connect and collaborate on exciting projects!
