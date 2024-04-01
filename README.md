@@ -16,9 +16,8 @@ I'm passionate about pushing the boundaries of AI and exploring the possibilitie
 - PyTorch
 - Python
 - C++
-
+  
 ![MeAmarP's GitHub stats](https://github-readme-stats.vercel.app/api?username=MeAmarP&show_icons=true&theme=dark)
-
 
 ### Projects
 
