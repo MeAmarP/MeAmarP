@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm MeAmarP! 👋
 
-🌟 Working at the intersection of Generative AI | Computer Vision | Deep Learning 🌟
+🌟 Working at the intersection of **Generative AI | Computer Vision | Deep Learning** 🌟
 
 🚀 I Enjoy PyTorch, Python, C++ 🚀
 
